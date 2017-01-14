@@ -67,7 +67,7 @@ This will provide the access token with expiration time, refresh token to client
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://www.github.com/tarunbatra11) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://www.github.com/tarunbatra11/django-otp/contributors.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -82,3 +82,6 @@ See also the list of [contributors](contributions.md) who participated in this p
 ## License
 
 This project can be used by anyone.
+
+## Help
+In case of any problem or suggestions drop me a mail at : tarun.batra11 [at] gmail [dot] com
