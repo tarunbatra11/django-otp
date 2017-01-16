@@ -15,7 +15,7 @@ pip3 install django-oauth-toolkit
 
 ### Installing
 
-Change database configuration. If you are using mysql then create database with name "otp". Install prerequisites and clone the library. Move inside project directory.
+Install prerequisites and clone the library. Change database configuration, if you are using mysql then create database with name "otp". Move inside project directory.
 
 ```
 ./manage.py makemigrations
